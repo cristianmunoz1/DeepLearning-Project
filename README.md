@@ -1,3 +1,4 @@
 # Clasificación de cobertura terrestre en la Amazonía usando imágenes satelitales 
 
-## Link del video: https://youtu.be/JL0biJxLb_s
+## Link del video: [Click acá
+](https://youtu.be/ieNGM2NYEYM)
